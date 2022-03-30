@@ -2,8 +2,8 @@
 
 # run the queries.sql from the folder sql and it is good to go ! 
 
-#requirments
+# requirments
 
-  Server type: MariaDB
-  Server version: 10.4.22-MariaDB - mariadb.org binary distribution
-  PHP version: 7.4.28
+# Server type: MariaDB
+# Server version: 10.4.22-MariaDB - mariadb.org binary distribution
+# PHP version: 7.4.28
