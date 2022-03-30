@@ -5,5 +5,5 @@
 # requirments
 
 # Server type: MariaDB
-# Server version: 10.4.22-MariaDB - mariadb.org binary distribution
+# Server version: 10.4.22-MariaDB
 # PHP version: 7.4.28
